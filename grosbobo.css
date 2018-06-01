@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	border:0px;
+}
+
+body{
+font-family: 'Arvo', serif;
+background-color: white;
+font-size: 12px;
+text-decoration: none;
+}
+
+
+h5{
+	text-align: center; 
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+
+area{
+	z-index: 2;
+	color: blue;
+	background-color: red;
+}
